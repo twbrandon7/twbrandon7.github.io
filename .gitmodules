@@ -1,0 +1,6 @@
+[submodule "IoTtalk-Demo-Frame-Web-Controller"]
+	path = IoTtalk-Demo-Frame-Web-Controller
+	url = https://github.com/twbrandon7/IoTtalk-Demo-Frame-Web-Controller
+[submodule "tano_iottalk_demo"]
+	path = tano_iottalk_demo
+	url = https://github.com/twbrandon7/IoTtalk-Demo-Frame-Web-Controller
